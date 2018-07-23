@@ -1,0 +1,2 @@
+# automated-packaging-deployment
+此脚本为一键打war包并上传到服务器然后重启tomcat的脚本
